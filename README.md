@@ -8,7 +8,7 @@ English-language academic website prepared for GitHub Pages.
 - `publications/index.html`: journal articles, book chapters and books.
 - `research/index.html`: working papers and ongoing studies, with search and topic filters.
 - `teaching/index.html`: teaching history by institution.
-- `projects/index.html`: online course, workshop and teaching assistant.
+- `projects/index.html`: research and student initiatives, learning platform, online course, workshop and teaching assistant.
 - `assets/`: styles, research filtering script, photographs and institutional logo.
 - `documents/`: the PDFs served directly by this site, grouped by subject.
 - `content/documents.json`: stable document IDs, file paths, versions, sizes and SHA-256 checksums.
