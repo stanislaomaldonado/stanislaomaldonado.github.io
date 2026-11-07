@@ -36,7 +36,9 @@ and content inventories in the working workspace are historical inputs and must 
 be run over this checkout.
 
 Edit the relevant HTML files to update content. Shared styles live in `assets/home.css`
-and `assets/sections.css`; the research search/filter logic is in `assets/research.js`.
+and `assets/sections.css`. The approved readability, document-action and responsive
+navigation refinements are in `assets/refinements.css`, loaded last on each page.
+The research search/filter logic is in `assets/research.js`.
 The header and footer are repeated in the five pages and should be kept consistent.
 News uses dates only where a source provides one; the date on the price-controls
 item identifies the paper version. Teaching dates were migrated from the original site.
