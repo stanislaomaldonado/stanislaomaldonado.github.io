@@ -198,6 +198,46 @@
       "publisher_url": "https://publications.iadb.org/en/nudging-trendsetters-increasing-second-dose-hpv-vaccination-bogota-colombia",
       "attribution": "Inter-American Development Bank, IDB-WP-1547, December 2023",
       "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/"
+    },
+    {
+      "id": "R12",
+      "title": "Tackling Biased Beliefs to Foster Women’s Entry into Economics: Experimental Evidence from Mexico",
+      "path": "documents/research/tackling-biased-beliefs.pdf",
+      "version": "2026-10-31",
+      "format": "application/pdf",
+      "bytes": 671754,
+      "sha256": "aa5b91b751372a19c0baa192df5ea2a5c806394e80d2797b740b7a7c67968061",
+      "pages": 66
+    },
+    {
+      "id": "R12-APP",
+      "title": "Tackling Biased Beliefs to Foster Women’s Entry into Economics: Experimental Evidence from Mexico — online appendix",
+      "path": "documents/research/tackling-biased-beliefs-appendix.pdf",
+      "version": "2026-10-31",
+      "format": "application/pdf",
+      "bytes": 11199768,
+      "sha256": "ca5d5f51553d106549795f2f64f42f513981044ed235135937872ebadc35c132",
+      "pages": 89
+    },
+    {
+      "id": "R12-SUPP",
+      "title": "Tackling Biased Beliefs to Foster Women’s Entry into Economics: Experimental Evidence from Mexico — supplementary analyses",
+      "path": "documents/research/tackling-biased-beliefs-supplementary-analysis.pdf",
+      "version": "2026-10-31",
+      "format": "application/pdf",
+      "bytes": 1402010,
+      "sha256": "a18e002245fbb322036b5a426f22cdf4571f57d8f92a0572ae2c6b6e251a3bcf",
+      "pages": 103
+    },
+    {
+      "id": "R12-PAP",
+      "title": "Tackling Biased Beliefs to Foster Women’s Entry into Economics: Experimental Evidence from Mexico — pre-analysis plan",
+      "path": "documents/research/tackling-biased-beliefs-pap.pdf",
+      "version": "2025-10-20",
+      "format": "application/pdf",
+      "bytes": 540219,
+      "sha256": "9f1183fc5a9d2365f1ddfc636689d4dd6b79eb2b62a3928a88eae05e74cb3dca",
+      "pages": 55
     }
   ]
 }
