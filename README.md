@@ -4,7 +4,8 @@ English-language academic website prepared for GitHub Pages.
 
 ## Site structure
 
-- `index.html`: biography, recent research, news, selected publications and engagement.
+- `index.html`: recent research, news, selected publications and engagement.
+- `about/index.html`: full biography, academic service and professional profile.
 - `publications/index.html`: journal articles, book chapters and books.
 - `research/index.html`: working papers and ongoing studies, with search and topic filters.
 - `teaching/index.html`: teaching history by institution.
@@ -39,7 +40,9 @@ Edit the relevant HTML files to update content. Shared styles live in `assets/ho
 and `assets/sections.css`. The approved readability, document-action and responsive
 navigation refinements are in `assets/refinements.css`, loaded last on each page.
 The research search/filter logic is in `assets/research.js`.
-The header and footer are repeated in the five pages and should be kept consistent.
+The header and footer are repeated in the six pages and should be kept consistent.
+Navigation order is Home, About me, Publications, Research, Teaching, Projects, CV.
+Old homepage #about links redirect to the standalone About me page.
 News uses dates only where a source provides one; the date on the price-controls
 item identifies the paper version. Teaching dates were migrated from the original site.
 
