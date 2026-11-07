@@ -185,6 +185,19 @@
       "bytes": 1476038,
       "sha256": "75512acfce6dda9dc09a2755f401e3035b4fb7c974cdd359894f0558d5b08057",
       "pages": 59
+    },
+    {
+      "id": "R05",
+      "title": "Nudging the Trendsetters: Increasing Second-dose HPV Vaccination in Bogota, Colombia",
+      "path": "documents/research/nudging-trendsetters.pdf",
+      "version": "2023-12",
+      "format": "application/pdf",
+      "bytes": 877058,
+      "sha256": "c208c5ef84fac4a0c327c1aa99b8ed70e792cdba35b306c5cf797dbb57d59be7",
+      "pages": 33,
+      "publisher_url": "https://publications.iadb.org/en/nudging-trendsetters-increasing-second-dose-hpv-vaccination-bogota-colombia",
+      "attribution": "Inter-American Development Bank, IDB-WP-1547, December 2023",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/"
     }
   ]
 }

@@ -46,7 +46,7 @@ item identifies the paper version. Teaching dates were migrated from the origina
 All PDFs previously linked directly from Dropbox, together with the existing Springer
 appendix and RIDGE program, are now served from `documents/`. The original PDF bytes
 are preserved. Journal, DOI, registry, course and institutional links remain external
-references. The IDB publication currently retains its publisher link.
+references. The IDB working paper is also hosted locally, with its published title, version and attribution. Publisher links remain available as references.
 
 The `path` of a document is its stable public address. For example,
 `documents/research/price-controls-motivated-beliefs.pdf` is shared by the homepage,
