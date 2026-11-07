@@ -44,8 +44,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 .entry-tag { font-size: 10px; }
 .entry-actions { align-items: center; gap: 8px 18px; }
 .entry-actions a { display: inline-flex; align-items: center; gap: 4px; min-height: 40px; padding: 8px 0; font-size: 13px; line-height: 1.4; }
-.entry-actions a[data-document-id]:not([data-document-id$="-APP"]),
-.paper-links a[data-document-id]:not([data-document-id$="-APP"]),
+.entry-actions a[data-document-id]:first-child,
+.paper-links a[data-document-id]:first-child,
 .publication .text-link[data-document-id],
 .news-actions .text-link[data-document-id] {
   display: inline-flex;
@@ -62,8 +62,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
   line-height: 1.4;
   text-decoration: none;
 }
-.entry-actions a[data-document-id]:not([data-document-id$="-APP"]):hover,
-.paper-links a[data-document-id]:not([data-document-id$="-APP"]):hover,
+.entry-actions a[data-document-id]:first-child:hover,
+.paper-links a[data-document-id]:first-child:hover,
 .publication .text-link[data-document-id]:hover,
 .news-actions .text-link[data-document-id]:hover { background: #dfeaf2; border-color: #7d9eb7; }
 .paper-links a[data-document-id$="-APP"] { display: inline-flex; align-items: center; min-height: 40px; }
@@ -154,8 +154,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
   .entry-year, .research-entry .entry-year { font-size: 12px; }
   .entry-tag { font-size: 10px; }
   .entry-actions a { min-height: 44px; font-size: 13px; }
-  .entry-actions a[data-document-id]:not([data-document-id$="-APP"]),
-  .paper-links a[data-document-id]:not([data-document-id$="-APP"]),
+  .entry-actions a[data-document-id]:first-child,
+  .paper-links a[data-document-id]:first-child,
   .publication .text-link[data-document-id] { min-height: 44px; }
   .topic-filters { flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain; margin: -6px -3px 0; padding: 6px 3px 10px; scrollbar-width: thin; scrollbar-color: #a8c0d1 transparent; }
   .topic-filters button { flex: 0 0 auto; font-size: 13px; }
