@@ -1,0 +1,2 @@
+# Preserve document bytes and PDF stream offsets on every operating system.
+*.pdf binary
