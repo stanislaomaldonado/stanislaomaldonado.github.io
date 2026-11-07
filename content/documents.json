@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "id": "CV",
+      "title": "Curriculum vitae",
+      "path": "documents/cv/stanislao-maldonado-cv.pdf",
+      "version": "2025-01",
+      "format": "application/pdf",
+      "bytes": 114236,
+      "sha256": "ec5608b56f7e104bbcebad32b52d9c9e026b45bec0c0f85468fd267b7f6fcb07",
+      "pages": 8
+    },
+    {
+      "id": "RIDGE-2024",
+      "title": "RIDGE Summer School in Economics — program",
+      "path": "documents/academic-service/ridge-summer-school-2024.pdf",
+      "version": "2024",
+      "format": "application/pdf",
+      "bytes": 224845,
+      "sha256": "563f33442a4068250e17495c04bbd10d8bed51b3f781167c02aeb7c958b65663",
+      "pages": 2
+    },
+    {
+      "id": "R04",
+      "title": "The Non-Monotonic Political Effects of Resource Booms",
+      "path": "documents/research/non-monotonic-political-effects-resource-booms.pdf",
+      "version": "2026-09-12",
+      "format": "application/pdf",
+      "bytes": 1011806,
+      "sha256": "a92757ab80bcf8aeeb0cc6b9b44294d5d07a76a21c8bd97a12bb6a06b441cc7c",
+      "pages": 48
+    },
+    {
+      "id": "R04-APP",
+      "title": "The Non-Monotonic Political Effects of Resource Booms — online appendix",
+      "path": "documents/research/non-monotonic-political-effects-resource-booms-appendix.pdf",
+      "version": "2026-09-12",
+      "format": "application/pdf",
+      "bytes": 1300353,
+      "sha256": "140a1d1e56f66bc40bf8b99139996329193dfccc3e17c0671c22412859079623",
+      "pages": 37
+    },
+    {
+      "id": "R01",
+      "title": "Planning Frictions and the Incomplete Take-up of Health Investments: The Case of HPV Vaccination",
+      "path": "documents/research/planning-frictions-hpv-vaccination.pdf",
+      "version": "2026-08-14",
+      "format": "application/pdf",
+      "bytes": 1401179,
+      "sha256": "8a7959edff26338df7affa87cc05fce08964d4b749b39b5dfeaf3304853b7f23",
+      "pages": 58
+    },
+    {
+      "id": "R01-APP",
+      "title": "Planning Frictions and the Incomplete Take-up of Health Investments — online appendix",
+      "path": "documents/research/planning-frictions-hpv-vaccination-appendix.pdf",
+      "version": "2026-08-14",
+      "format": "application/pdf",
+      "bytes": 1240604,
+      "sha256": "641fefc0fb593657dbcfd3d9594d219bce9d95ae1fd28804839f0622e9dd86ef",
+      "pages": 51
+    },
+    {
+      "id": "R02",
+      "title": "Why Do Citizens Support Price Controls? The Role of Motivated Beliefs",
+      "path": "documents/research/price-controls-motivated-beliefs.pdf",
+      "version": "2026-04-06",
+      "format": "application/pdf",
+      "bytes": 2157911,
+      "sha256": "5a419b28963993a19fb2a6e310eff4ce0161951cfd2a3a53e603c84c3e8155d1",
+      "pages": 82
+    },
+    {
+      "id": "P01",
+      "title": "Empowering Women through Multifaceted Interventions: Long-term Evidence from a Double Matching Design",
+      "path": "documents/publications/empowering-women-multifaceted-interventions.pdf",
+      "version": "2024",
+      "format": "application/pdf",
+      "bytes": 960854,
+      "sha256": "1a0ceafdaf9f1b61071f9878905644ec4c8b92ac6a0284f9dd937b6c907e7c4e",
+      "pages": 44,
+      "publisher_url": "https://link.springer.com/article/10.1007/s00148-024-00987-z"
+    },
+    {
+      "id": "P01-APP",
+      "title": "Empowering Women through Multifaceted Interventions — online appendix",
+      "path": "documents/publications/empowering-women-multifaceted-interventions-appendix.pdf",
+      "version": "Journal supplementary material",
+      "format": "application/pdf",
+      "bytes": 285048,
+      "sha256": "fde879035f692c82103bd9fd69c467af7d5f4343ac1e48f5db163e4494ba8406",
+      "pages": 37
+    },
+    {
+      "id": "P02",
+      "title": "Natural Resource Windfalls and Efficiency of Local Government Expenditures: Evidence from Peru",
+      "path": "documents/publications/natural-resource-windfalls-local-government.pdf",
+      "version": "Published article",
+      "format": "application/pdf",
+      "bytes": 3454220,
+      "sha256": "69b7ee0c181dcaa571b132a84bea1c2d8403ba4976b6dccd750fcd768a8b7ab3",
+      "pages": 37,
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecpo.12209"
+    },
+    {
+      "id": "P03",
+      "title": "Motivating Bureaucrats with Behavioral Insights when State Capacity is Weak",
+      "path": "documents/publications/motivating-bureaucrats-behavioral-insights.pdf",
+      "version": "2023",
+      "format": "application/pdf",
+      "bytes": 1857778,
+      "sha256": "46cac7013dbb461dd4ea60b9b8dbe226eca6754d699486d756b6c95f9a6c3351",
+      "pages": 19,
+      "publisher_url": "https://www.sciencedirect.com/science/article/abs/pii/S0304387822001377"
+    },
+    {
+      "id": "P03-APP",
+      "title": "Motivating Bureaucrats with Behavioral Insights — online appendix",
+      "path": "documents/publications/motivating-bureaucrats-behavioral-insights-appendix.pdf",
+      "version": "2020-08",
+      "format": "application/pdf",
+      "bytes": 2164822,
+      "sha256": "7230498d3fd7782fc764245be81a0f41d0a8c53c7ddac65258e41e4a3d9ef56d",
+      "pages": 20
+    },
+    {
+      "id": "P04",
+      "title": "The Value of Redistribution: Natural Resources and the Formation of Human Capital under Weak Institutions",
+      "path": "documents/publications/value-of-redistribution.pdf",
+      "version": "2021",
+      "format": "application/pdf",
+      "bytes": 827081,
+      "sha256": "45086f00ed9fd221e9d13d4983d755141e59e1eaa99c4a381ef95b49e9731a85",
+      "pages": 12,
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0304387820301565"
+    },
+    {
+      "id": "P05",
+      "title": "From a Curse to a Blessing? Institutional Reforms and Resource Booms in Colombia",
+      "path": "documents/publications/institutional-reforms-resource-booms-colombia.pdf",
+      "version": "2020",
+      "format": "application/pdf",
+      "bytes": 2049558,
+      "sha256": "67ee42a21305559955a67d613e70747e54a49641715bdb52e4195f35f0d0bb51",
+      "pages": 20,
+      "publisher_url": "https://www.sciencedirect.com/science/article/abs/pii/S0167268120302286?via%3Dihub"
+    },
+    {
+      "id": "P06",
+      "title": "Government Policy and Employment of Persons with Disabilities in Peru",
+      "path": "documents/publications/government-policy-employment-disabilities-peru.pdf",
+      "version": "2014",
+      "format": "application/pdf",
+      "bytes": 191671,
+      "sha256": "b8a205b78243a37107486353d3646f62518de102b289896e0bc2b18885081609",
+      "pages": 27
+    },
+    {
+      "id": "P07",
+      "title": "Work and Disability in Peru: Labor Market, Public Policies and Social Inclusion",
+      "path": "documents/publications/work-disability-peru.pdf",
+      "version": "2006",
+      "format": "application/pdf",
+      "bytes": 4258900,
+      "sha256": "d9441eb224b7f7336f8eff1afdea0a39272a35a79650565ce9f2e834f680e93b",
+      "pages": 253
+    },
+    {
+      "id": "R03",
+      "title": "Building a Shield Together: Addressing Low Vaccine Uptake against Cancer through Social Norms",
+      "path": "documents/research/building-shield-social-norms-hpv.pdf",
+      "version": "2026-02-26",
+      "format": "application/pdf",
+      "bytes": 6853582,
+      "sha256": "241d23351fa0e30fac06c810411f9ef845e5066ef50449c527fccff244110266",
+      "pages": 126
+    },
+    {
+      "id": "R03-APP",
+      "title": "Building a Shield Together — online appendix including pre-analysis plan",
+      "path": "documents/research/building-shield-social-norms-hpv-appendix.pdf",
+      "version": "2024-10-10",
+      "format": "application/pdf",
+      "bytes": 1476038,
+      "sha256": "75512acfce6dda9dc09a2755f401e3035b4fb7c974cdd359894f0558d5b08057",
+      "pages": 59
+    }
+  ]
+}
