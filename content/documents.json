@@ -5,11 +5,12 @@
       "id": "CV",
       "title": "Curriculum vitae",
       "path": "documents/cv/stanislao-maldonado-cv.pdf",
-      "version": "2025-01",
+      "version": "2026-11-08",
       "format": "application/pdf",
-      "bytes": 114236,
-      "sha256": "ec5608b56f7e104bbcebad32b52d9c9e026b45bec0c0f85468fd267b7f6fcb07",
-      "pages": 8
+      "bytes": 115091,
+      "sha256": "e3915f75a92bb96891d989aa1c4a0ee80f26194937bbe90c98e2b235d0dfeac0",
+      "pages": 9,
+      "updated": "2026-11-08"
     },
     {
       "id": "RIDGE-2024",
