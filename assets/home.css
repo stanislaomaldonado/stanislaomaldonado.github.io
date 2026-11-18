@@ -398,10 +398,13 @@ h2 { font: 400 39px/1.18 var(--serif); letter-spacing: -.035em; color: var(--ink
 
 /* Welcome profile above Recent research. */
 .home-bio { padding-top: 44px; }
-.home-bio p { max-width: 100ch; margin: 0; font-size: 16px; line-height: 1.85; }
+.home-bio p { max-width: calc(100% - 145px); margin: 0; font-size: 16px; line-height: 1.85; }
 .home-bio a { color: var(--blue); text-decoration-color: #afc3d1; }
 .home-bio a:hover { text-decoration-color: currentColor; }
 .home-bio-more { min-height: 44px; margin-top: 12px; }
+@media (max-width: 800px) {
+  .home-bio p { max-width: none; }
+}
 @media (max-width: 700px) {
   .home-bio { padding-top: 30px; }
 }
